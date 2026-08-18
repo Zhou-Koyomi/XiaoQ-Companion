@@ -1,0 +1,9 @@
+# ESP32 编译文件
+build/
+.vscode/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+*.log
+*.tmp
+managed_components/
